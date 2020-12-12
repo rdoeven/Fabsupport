@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fabsupport</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Fabsupport</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Thu, 26 Nov 2020 13:48:37 +0100</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eerste stappen</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Nov 2020 13:48:37 +0100</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>ongeacht het probleem die je hebt onderneem eerst deze stappen:  herstart het apparaat in geval van wifi -&amp;gt; Verwijder het netwerk en voeg deze opnieuw toe en log opnieuw in in geval van kabel -&amp;gt; steek de kabel opnieuw in je pc en log opnieuw in op de webinterface https://hotspot.studenteninternet.be/login  probleem niet opgelost? Bekijk de het deel over veelvoorkomende problemen eens en kijk of je het daar kan oplossen Anders kan je je lokale friendly neighberhood ICT Contacteren via Robbe.</description>
+    </item>
+    
+    <item>
+      <title>Veelvoorkomende problemen</title>
+      <link>/posts/veelvoorkomende-problemen/</link>
+      <pubDate>Thu, 26 Nov 2020 12:09:52 +0100</pubDate>
+      
+      <guid>/posts/veelvoorkomende-problemen/</guid>
+      <description>Het netwerk zit vast op &amp;ldquo;verbinding maken&amp;rdquo; Dit komt meestal doordat je logingegevens verkeerd zijn of je netwerkinstellingen verkeerd staan. Eduroam is een wpa2-enterprise netwerk wat wil zeggen dat je moet inloggen via een gebruikersnaam en passwoord voordat je kan inloggen&amp;gt; Net zoals je dat doet bij elk eduroam netwerk van de ugent.
+gebruikersnaam: Voornaam.achternaam@Ugent.be
+passwoord: je Ugent wachtwoord
+!! vergeet niet als je recent je ugent wachtwoord veranderd hebt moet je deze in je wificonfiguatie ook aanpassen!</description>
+    </item>
+    
+    <item>
+      <title>Hoe Meld Ik Een Probleem</title>
+      <link>/posts/hoe-meld-ik-een-probleem/</link>
+      <pubDate>Thu, 26 Nov 2020 11:45:42 +0100</pubDate>
+      
+      <guid>/posts/hoe-meld-ik-een-probleem/</guid>
+      <description>Bekijk de facebookpagina en vraag eens aan wat ganggenoten Als het gaat om een algemeen probleem, zal je waarschijnlijk niet de enige zijn met het probleem. Bekijk de facebookpagina eens om te kijken of de ICT niet al gepost heeft dat er een algemeen probleem is of vraag eens aan je gangenoeten of zij hetzelfde probleem hebben.
+meld het probleem bij de ict Als het probleem nog niet algemeen bekend (zie vorige alinea) dan contacteer je de ict (Robbe Doeven, robbe.</description>
+    </item>
+    
+  </channel>
+</rss>

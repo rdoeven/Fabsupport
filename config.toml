@@ -1,0 +1,25 @@
+baseURL = ""
+languageCode = "nl-be"
+title = "Fabsupport"
+theme = "smol"
+relativeURLs = true
+
+# Parameters
+[params]
+    subtitle = ""
+
+# Footer
+  [[menu.footer]]
+        name = "Fabiola"
+        url = "http://homefabiola.be/"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "Home Konvent"
+        url = "http://www.homekonvent.be/"
+        weight = 2 
+
+    [[menu.footer]]
+        name = "Ugent Dict"
+        url = "https://helpdesk.ugent.be/"
+        weight = 3
